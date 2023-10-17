@@ -8,4 +8,6 @@ const navBar = (
     </ul>
   </nav>
 );
-ReactDOM.render(navBar, document.getElementById("root"));
+// ReactDOM.render(navBar, document.getElementById("root"));
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(navBar);
