@@ -9,5 +9,5 @@ const navBar = (
   </nav>
 );
 // ReactDOM.render(navBar, document.getElementById("root"));
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(navBar);
+
+ReactDOM.createRoot(document.getElementById("root")).render(navBar);
