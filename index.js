@@ -1,5 +1,5 @@
-const navBar = (
-  <nav>
+const page = (
+  <div>
     <h1>Burger Planet</h1>
     <ul>
       <li>Home</li>
@@ -7,6 +7,6 @@ const navBar = (
       <li>Contact</li>
       <li>About</li>
     </ul>
-  </nav>
+  </div>
 );
-ReactDOM.createRoot(document.getElementById("root")).render(navBar);
+ReactDOM.createRoot(document.getElementById("root")).render(page);
