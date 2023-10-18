@@ -1,6 +1,6 @@
 const page = (
   <div>
-    <h1>Burger Planet</h1>
+    <h1>My awesome website in React</h1>
     <ul>
       <li>Home</li>
       <li>Prices</li>
