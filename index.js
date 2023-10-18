@@ -2,7 +2,8 @@ const navBar = (
   <nav>
     <h1>Burger Planet</h1>
     <ul>
-      <li>Pricing</li>
+      <li>Home</li>
+      <li>Prices</li>
       <li>Contact</li>
       <li>About</li>
     </ul>
