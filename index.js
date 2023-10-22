@@ -6,7 +6,7 @@ const page = (
       <li> composable</li>
       <li> declarative</li>
       <li>A hireable skill</li>
-      <li>It's actively maintained by skilled people</li>
+      <li>Actively maintained by skilled people</li>
     </ol>
   </div>
 );
