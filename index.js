@@ -5,7 +5,7 @@ const page = (
     <ol>
       <li> composable</li>
       <li> declarative</li>
-      <li>It's a hireable skill</li>
+      <li>A hireable skill</li>
       <li>It's actively maintained by skilled people</li>
     </ol>
   </div>
