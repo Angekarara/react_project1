@@ -3,7 +3,7 @@ const page = (
     <h1>My awesome website in React</h1>
     <h3>Reason i love react</h3>
     <ol>
-      <li>It's composable</li>
+      <li> composable</li>
       <li>It's declarative</li>
       <li>It's a hireable skill</li>
       <li>It's actively maintained by skilled people</li>
