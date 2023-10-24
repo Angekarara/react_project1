@@ -1,13 +1,16 @@
-const page = (
-  <div>
-    <h1>My awesome website in React</h1>
-    <h3>Reason i love react</h3>
-    <ol>
-      <li> composable</li>
-      <li> declarative</li>
-      <li>A hireable skill</li>
-      <li>Actively maintained by skilled people</li>
-    </ol>
-  </div>
-);
-ReactDOM.createRoot(document.getElementById("root")).render(page);
+function Page() {
+  return (
+    <div>
+      <h1>why do i like React</h1>
+      <ul>
+        <li>Was first released in 2013</li>
+        <li>Was originally created by Jordan Walke</li>
+        <li>Has well over 100K stars on GitHub</li>
+        <li>Is maintained by Facebook</li>
+        <li>Powers thousands of enterprise apps, including mobile apps</li>
+      </ul>
+    </div>
+  );
+}
+
+ReactDOM.render(<Page />, document.getElementById("root"));
